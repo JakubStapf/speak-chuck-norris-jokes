@@ -1,5 +1,5 @@
 # speak-chuck-norris-jokes
-
+Web App that reads random Chuck Norris Jokes using external APIs
 # Instructions:
 1. Open your IntelliJ IDEA.
 2. Create a new project by pasting the link to the remote repository and then fetch the program using the git->pull method from the local repository.
