@@ -2,7 +2,9 @@
 Web App that reads random Chuck Norris Jokes using external APIs
 # Instructions:
 1. Open your IntelliJ IDEA.
-2. Create a new project by pasting the link to the remote repository and then fetch the program using the git->pull method from the local repository.
+2. Create a new project by pasting the link to the remote repository
+3. use this LINK: https://github.com/JakubStapf/speak-chuck-norris-jokes.git
+4. and then fetch the program using the git->pull method from the local repository.
 
 # Description:
 This application utilizes an external API using the HTTP protocol and the OkHttp library to handle it.
@@ -21,3 +23,4 @@ The converted text is then played using Java Sound.
 - Logger for the Service class to log method actions
 - Converting JSON/String content to a Java class object - Gson library
 - Unit testing for the Service class's convert() method using the JUnit library
+
